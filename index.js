@@ -138,8 +138,8 @@
 
         static update = () => {
             Toastify({
-                text: 'Neue Version auf https://place.army/ verfügbar!',
-                destination: 'https://place.army/',
+                text: 'Neue Version auf https://place.kayo.zip verfügbar!',
+                destination: 'https://place.kayo.zip/',
                 duration: -1,
                 gravity: 'bottom',
                 position: 'right',
